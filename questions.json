@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the output of len([1, 2, 3])?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": "def"
+  },
+  {
+    "question": "Which data type is immutable?",
+    "options": ["List", "Dictionary", "Tuple", "Set"],
+    "answer": "Tuple"
+  }
+]
